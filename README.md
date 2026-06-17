@@ -1,3 +1,11 @@
+<img width="978" height="511" alt="lab 2" src="https://github.com/user-attachments/assets/a3ffae50-722a-4d9d-ad0e-33abaf56619e" />
+<img width="639" height="489" alt="lab3" src="https://github.com/user-attachments/assets/52b9e1bf-869d-4a93-9003-4b766d72fbf4" />
+<img width="636" height="498" alt="lab4" src="https://github.com/user-attachments/assets/980fb3eb-0daa-41a2-b69e-8b0260274fce" />
+<img width="626" height="496" alt="lab5" src="https://github.com/user-attachments/assets/8a5496a3-83be-4ecb-87a7-49da3c94705d" />
+<img width="642" height="487" alt="lab 6" src="https://github.com/user-attachments/assets/cc749be6-fcc4-413c-ae67-13138bdc579e" />
+<img width="568" height="337" alt="lab 7" src="https://github.com/user-attachments/assets/68c077b7-9e13-403d-8091-9d02746c79d5" />
+<img width="994" height="717" alt="lab8" src="https://github.com/user-attachments/assets/e3e7b719-474d-429a-9c73-b84527303d9c" />
+<img width="1026" height="767" alt="lab 1" src="https://github.com/user-attachments/assets/1c167e4c-4043-43f6-a877-b0f673fc77c3" />
 # -cybersecurity-home-lab
 # 🏠 Cybersecurity Home Lab
 
